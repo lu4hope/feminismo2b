@@ -82,12 +82,13 @@ section {
 .coluna {
     
     float: left;
-    padding: 0 10%;
+    padding: 0 5%;
     position: relative;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .dois {
     width: 40%;
+    margin-top: 0%;
 
 }
 .quatro {
